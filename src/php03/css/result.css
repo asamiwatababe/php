@@ -1,0 +1,18 @@
+/* 正解。不正解のところのスタイル */
+.result__content {
+    margin: 0 auto;
+    padding: 60px 15px;
+    max-width: 1230px;
+}
+
+.result {
+    text-align: center;
+}
+
+.result__text_correct {
+    color: #ff0000;
+}
+
+.result__text_incorrect {
+    color: #0000ff;
+}
